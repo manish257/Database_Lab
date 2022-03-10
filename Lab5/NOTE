@@ -1,0 +1,3 @@
+
+.sql file has all the queries in exercise, .pdf is the lab manual.
+The output will be null if you search something which is not in relation, such as some hotels which are not available.
