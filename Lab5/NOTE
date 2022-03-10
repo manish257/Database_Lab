@@ -1,3 +1,5 @@
 
 .sql file has all the queries in exercise, .pdf is the lab manual.
+ALSO formatting of codes seems changed after uploading here, it seems good if you open file in workbench,
+anyhow it works fine.
 The output will be null if you search something which is not in relation, such as some hotels which are not available.
